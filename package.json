@@ -1,0 +1,25 @@
+{
+  "name": "messenger-server",
+  "version": "1.0.0",
+  "description": "This is a backend server for my messaging app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devfromfinland/messenger-server.git"
+  },
+  "keywords": [
+    "messaging"
+  ],
+  "author": "Viet Phan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devfromfinland/messenger-server/issues"
+  },
+  "homepage": "https://github.com/devfromfinland/messenger-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
